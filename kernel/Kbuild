@@ -1,0 +1,3 @@
+obj-m += rdmasim.o
+
+rdmasim-objs := main.o
